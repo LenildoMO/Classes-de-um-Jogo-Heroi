@@ -1,1 +1,1 @@
-console.log("pai todo poderoso");
+console.log("pai");
